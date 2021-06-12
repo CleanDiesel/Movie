@@ -1,0 +1,58 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "N26OW",
+      "url": "board-2-N26OW.png",
+      "newShot": true,
+      "lastEdited": 1623393627606,
+      "layers": {
+        "ink": {
+          "url": "board-2-N26OW-ink.png"
+        }
+      },
+      "shot": "1A",
+      "number": 1,
+      "time": 0,
+      "lineMileage": 9249.66629665442
+    },
+    {
+      "uid": "OO0ZR",
+      "url": "board-3-OO0ZR.png",
+      "newShot": false,
+      "lastEdited": 1623393627606,
+      "layers": {
+        "shot-generator": {
+          "url": "board-3-OO0ZR-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-3-OO0ZR-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-3-OO0ZR-fill.png"
+        },
+        "tone": {
+          "url": "board-3-OO0ZR-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-OO0ZR-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-OO0ZR-ink.png"
+        },
+        "notes": {
+          "url": "board-3-OO0ZR-notes.png"
+        }
+      },
+      "shot": "1B",
+      "number": 2,
+      "time": 2000,
+      "lineMileage": 12285.653949793406
+    }
+  ]
+}

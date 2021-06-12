@@ -1,0 +1,121 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "ZLNST",
+      "url": "board-1-ZLNST.png",
+      "newShot": false,
+      "lastEdited": 1623479720302,
+      "layers": {
+        "shot-generator": {
+          "url": "board-1-ZLNST-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-1-ZLNST-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-1-ZLNST-fill.png"
+        },
+        "tone": {
+          "url": "board-1-ZLNST-tone.png"
+        },
+        "pencil": {
+          "url": "board-1-ZLNST-pencil.png"
+        },
+        "ink": {
+          "url": "board-1-ZLNST-ink.png"
+        },
+        "notes": {
+          "url": "board-1-ZLNST-notes.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 119678.50457207752
+    },
+    {
+      "uid": "MKDGW",
+      "url": "board-2-MKDGW.png",
+      "newShot": false,
+      "lastEdited": 1623480264885,
+      "layers": {
+        "tone": {
+          "url": "board-2-MKDGW-tone.png"
+        },
+        "ink": {
+          "url": "board-2-MKDGW-ink.png"
+        }
+      },
+      "number": 2,
+      "shot": "1B",
+      "time": 2000,
+      "lineMileage": 14908.225632681326
+    },
+    {
+      "uid": "8C0YY",
+      "url": "board-3-8C0YY.png",
+      "newShot": true,
+      "lastEdited": 1623480303174,
+      "layers": {
+        "ink": {
+          "url": "board-3-8C0YY-ink.png"
+        }
+      },
+      "shot": "2A",
+      "number": 3,
+      "time": 4000,
+      "lineMileage": 4991.652994999248
+    },
+    {
+      "uid": "RBGWT",
+      "url": "board-4-RBGWT.png",
+      "newShot": true,
+      "lastEdited": 1623480435975,
+      "layers": {
+        "ink": {
+          "url": "board-4-RBGWT-ink.png"
+        }
+      },
+      "shot": "3A",
+      "number": 4,
+      "time": 6000,
+      "lineMileage": 4082.417219184063
+    },
+    {
+      "uid": "FXLB0",
+      "url": "board-5-FXLB0.png",
+      "newShot": false,
+      "lastEdited": 1623480472026,
+      "layers": {
+        "ink": {
+          "url": "board-5-FXLB0-ink.png"
+        }
+      },
+      "shot": "3B",
+      "number": 5,
+      "time": 8000,
+      "lineMileage": 3132.7630695705616
+    },
+    {
+      "uid": "Z09I9",
+      "url": "board-6-Z09I9.png",
+      "newShot": false,
+      "lastEdited": 1623480488842,
+      "layers": {
+        "ink": {
+          "url": "board-6-Z09I9-ink.png"
+        }
+      },
+      "shot": "3C",
+      "number": 6,
+      "time": 10000,
+      "lineMileage": 4267.162736287054
+    }
+  ]
+}

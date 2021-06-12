@@ -1,0 +1,298 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "TTH65",
+      "url": "board-2-TTH65.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "shot-generator": {
+          "url": "board-2-TTH65-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-2-TTH65-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-2-TTH65-fill.png"
+        },
+        "tone": {
+          "url": "board-2-TTH65-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-TTH65-pencil.png"
+        },
+        "ink": {
+          "url": "board-2-TTH65-ink.png"
+        },
+        "notes": {
+          "url": "board-2-TTH65-notes.png"
+        }
+      },
+      "shot": "1A",
+      "number": 1,
+      "time": 0,
+      "lineMileage": 42666.097209602856
+    },
+    {
+      "uid": "EDFS5",
+      "url": "board-3-EDFS5.png",
+      "newShot": false,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "shot-generator": {
+          "url": "board-3-EDFS5-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-3-EDFS5-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-3-EDFS5-fill.png"
+        },
+        "tone": {
+          "url": "board-3-EDFS5-tone.png"
+        },
+        "pencil": {
+          "url": "board-3-EDFS5-pencil.png"
+        },
+        "ink": {
+          "url": "board-3-EDFS5-ink.png"
+        },
+        "notes": {
+          "url": "board-3-EDFS5-notes.png"
+        }
+      },
+      "shot": "1B",
+      "number": 2,
+      "time": 2000,
+      "lineMileage": 14116.505389878916
+    },
+    {
+      "uid": "67S2F",
+      "url": "board-4-67S2F.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-4-67S2F-ink.png"
+        }
+      },
+      "shot": "2A",
+      "number": 3,
+      "time": 4000,
+      "lineMileage": 9143.526602607584
+    },
+    {
+      "uid": "ZPITM",
+      "url": "board-5-ZPITM.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-5-ZPITM-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-5-ZPITM-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-5-ZPITM-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-5-ZPITM-fill.png"
+        },
+        "tone": {
+          "url": "board-5-ZPITM-tone.png"
+        },
+        "pencil": {
+          "url": "board-5-ZPITM-pencil.png"
+        },
+        "notes": {
+          "url": "board-5-ZPITM-notes.png"
+        }
+      },
+      "shot": "3A",
+      "number": 4,
+      "time": 6000,
+      "lineMileage": 37298.832237159004
+    },
+    {
+      "uid": "4BLL7",
+      "url": "board-6-4BLL7.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-6-4BLL7-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-6-4BLL7-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-6-4BLL7-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-6-4BLL7-fill.png"
+        },
+        "tone": {
+          "url": "board-6-4BLL7-tone.png"
+        },
+        "pencil": {
+          "url": "board-6-4BLL7-pencil.png"
+        },
+        "notes": {
+          "url": "board-6-4BLL7-notes.png"
+        }
+      },
+      "shot": "4A",
+      "number": 5,
+      "time": 8000,
+      "lineMileage": 9660.409068475308
+    },
+    {
+      "uid": "RTF3E",
+      "url": "board-7-RTF3E.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-7-RTF3E-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-7-RTF3E-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-7-RTF3E-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-7-RTF3E-fill.png"
+        },
+        "tone": {
+          "url": "board-7-RTF3E-tone.png"
+        },
+        "pencil": {
+          "url": "board-7-RTF3E-pencil.png"
+        },
+        "notes": {
+          "url": "board-7-RTF3E-notes.png"
+        }
+      },
+      "shot": "5A",
+      "number": 6,
+      "time": 10000,
+      "lineMileage": 37411.19080902651
+    },
+    {
+      "uid": "AIGO5",
+      "url": "board-8-AIGO5.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-8-AIGO5-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-8-AIGO5-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-8-AIGO5-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-8-AIGO5-fill.png"
+        },
+        "tone": {
+          "url": "board-8-AIGO5-tone.png"
+        },
+        "pencil": {
+          "url": "board-8-AIGO5-pencil.png"
+        },
+        "notes": {
+          "url": "board-8-AIGO5-notes.png"
+        }
+      },
+      "shot": "6A",
+      "number": 7,
+      "time": 12000,
+      "lineMileage": 9660.409068475308
+    },
+    {
+      "uid": "GZCM7",
+      "url": "board-9-GZCM7.png",
+      "newShot": true,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-9-GZCM7-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-9-GZCM7-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-9-GZCM7-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-9-GZCM7-fill.png"
+        },
+        "tone": {
+          "url": "board-9-GZCM7-tone.png"
+        },
+        "pencil": {
+          "url": "board-9-GZCM7-pencil.png"
+        },
+        "notes": {
+          "url": "board-9-GZCM7-notes.png"
+        }
+      },
+      "shot": "7A",
+      "number": 8,
+      "time": 14000,
+      "lineMileage": 37411.19080902651
+    },
+    {
+      "uid": "0BZUK",
+      "url": "board-10-0BZUK.png",
+      "newShot": false,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-10-0BZUK-ink.png"
+        }
+      },
+      "shot": "7B",
+      "number": 9,
+      "time": 16000,
+      "lineMileage": 13200.028497775878
+    },
+    {
+      "uid": "Y1UJY",
+      "url": "board-11-Y1UJY.png",
+      "newShot": false,
+      "lastEdited": 1623393070126,
+      "layers": {
+        "ink": {
+          "url": "board-11-Y1UJY-ink.png"
+        }
+      },
+      "shot": "7C",
+      "number": 10,
+      "time": 18000,
+      "lineMileage": 4459.326662271774
+    }
+  ]
+}

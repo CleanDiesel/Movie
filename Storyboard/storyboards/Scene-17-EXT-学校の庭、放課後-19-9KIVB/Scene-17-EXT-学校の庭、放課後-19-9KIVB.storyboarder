@@ -1,0 +1,23 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "E7RK9",
+      "url": "board-1-E7RK9.png",
+      "newShot": false,
+      "lastEdited": 1623478138005,
+      "layers": {
+        "ink": {
+          "url": "board-1-E7RK9-ink.png"
+        }
+      },
+      "number": 1,
+      "shot": "1A",
+      "time": 0,
+      "lineMileage": 3187.43201433741
+    }
+  ]
+}

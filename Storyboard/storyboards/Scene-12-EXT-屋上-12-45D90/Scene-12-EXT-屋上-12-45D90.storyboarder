@@ -1,0 +1,133 @@
+{
+  "version": "3.0.0",
+  "aspectRatio": "1.7777777777777777",
+  "fps": 24,
+  "defaultBoardTiming": 2000,
+  "boards": [
+    {
+      "uid": "FNTL2",
+      "url": "board-2-FNTL2.png",
+      "newShot": true,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-2-FNTL2-ink.png"
+        },
+        "shot-generator": {
+          "url": "board-2-FNTL2-shot-generator.png",
+          "opacity": 0.75
+        },
+        "reference": {
+          "url": "board-2-FNTL2-reference.png",
+          "opacity": 0.75
+        },
+        "fill": {
+          "url": "board-2-FNTL2-fill.png"
+        },
+        "tone": {
+          "url": "board-2-FNTL2-tone.png"
+        },
+        "pencil": {
+          "url": "board-2-FNTL2-pencil.png"
+        },
+        "notes": {
+          "url": "board-2-FNTL2-notes.png"
+        }
+      },
+      "shot": "1A",
+      "number": 1,
+      "time": 0,
+      "lineMileage": 14257.647375435601
+    },
+    {
+      "uid": "RO3PJ",
+      "url": "board-3-RO3PJ.png",
+      "newShot": true,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-3-RO3PJ-ink.png"
+        }
+      },
+      "shot": "2A",
+      "number": 2,
+      "time": 2000,
+      "lineMileage": 5877.964445063471
+    },
+    {
+      "uid": "Y157P",
+      "url": "board-4-Y157P.png",
+      "newShot": true,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-4-Y157P-ink.png"
+        }
+      },
+      "shot": "3A",
+      "number": 3,
+      "time": 4000,
+      "lineMileage": 6926.937139390571
+    },
+    {
+      "uid": "ZS9MG",
+      "url": "board-5-ZS9MG.png",
+      "newShot": true,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-5-ZS9MG-ink.png"
+        }
+      },
+      "shot": "4A",
+      "number": 4,
+      "time": 6000,
+      "lineMileage": 6563.138155110185
+    },
+    {
+      "uid": "738WY",
+      "url": "board-6-738WY.png",
+      "newShot": true,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-6-738WY-ink.png"
+        }
+      },
+      "shot": "5A",
+      "number": 5,
+      "time": 8000,
+      "lineMileage": 3056.564007514882
+    },
+    {
+      "uid": "BC2W8",
+      "url": "board-7-BC2W8.png",
+      "newShot": true,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-7-BC2W8-ink.png"
+        }
+      },
+      "shot": "6A",
+      "number": 6,
+      "time": 10000,
+      "lineMileage": 6563.138155110185
+    },
+    {
+      "uid": "SMHZN",
+      "url": "board-8-SMHZN.png",
+      "newShot": false,
+      "lastEdited": 1623470408570,
+      "layers": {
+        "ink": {
+          "url": "board-8-SMHZN-ink.png"
+        }
+      },
+      "shot": "6B",
+      "number": 7,
+      "time": 12000,
+      "lineMileage": 3421.2325574267466
+    }
+  ]
+}
